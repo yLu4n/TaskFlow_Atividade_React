@@ -45,7 +45,6 @@ function Dashboard() {
     <div className="app-shell">
       <header className="site-header">
         <a className="brand" href="#inicio" aria-label="TaskFlow, voltar ao início">✦ <strong>TaskFlow</strong></a>
-        <span className="header-tag">Atividade React.js</span>
       </header>
       <main id="inicio" className="container">
         <section className="hero" aria-labelledby="page-title">
